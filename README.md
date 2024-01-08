@@ -1,4 +1,4 @@
-# Word Recommender Model
+# Word Similarity Model
 
 A Word Recommender built using Cosine Similarity. 
 
